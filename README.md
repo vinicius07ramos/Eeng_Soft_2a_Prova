@@ -23,7 +23,7 @@ c) uma pasta chamada: Equipe , e nesta pasta um arquivo com sua Matrícula, por 
 **OK**  
 
 a) Adicione-se uma pasta chamada: Colaboradores , incluindo um arquivo com sua Matrícula, por exemplo: 20201SI099.txt , neste arquivo você colocará seu nome completo, o curso que faz e o período que está. (semelhante à questão 2.c)  
-**Não criou a pasta, mas criou o arquivo e preencheu corretamente. Na hora de criar a pasta, utilizou a barra invertuda: "\", e deveria ser a barra comum: "/".**  
+**Não criou a pasta, mas criou o arquivo e preencheu corretamente. Na hora de criar a pasta, utilizou a barra invertuda: "\\", e deveria ser a barra comum: "/".**  
 
 b) Crie uma nova versão neste repositório, com a tag: Omega.0.2, e título: Versão Omega  
 **OK**  
